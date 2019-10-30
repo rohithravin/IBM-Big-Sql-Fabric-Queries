@@ -1,0 +1,13 @@
+.DS_Store
+app/.DS_Store
+app/network/.DS_Store
+app/network/bin/configtxgen
+app/network/bin/configtxlator
+app/network/bin/cryptogen
+app/network/bin/fabric-ca-client
+app/network/bin/get-docker-images.sh
+app/network/bin/orderer
+app/network/bin/peer
+app/network/config/core.yaml
+app/network/config/orderer.yaml
+app/node-app/node_modules

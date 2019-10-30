@@ -1,0 +1,19 @@
+{
+    "fabricUser":{
+        "username":"admin",
+        "password":"adminpw",
+         "userAffiliation":"org1",
+         "userMSPID":"Org1MSP",
+         "userCertFilePath":"network_resources/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/admincerts",
+         "userPKFilePath":"network_resources/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore"
+    },
+     "network":{
+         "channelName":"mychannel",
+         "IPAdress":"127.0.0.1",
+         "peerName":"peer0.org1.example.com",
+         "peerURLPort":"7051",
+         "ordererName":"orderer.example.com",
+         "ordererURLPort":"7050",
+         "caURLPort":"7054"
+    }
+}
